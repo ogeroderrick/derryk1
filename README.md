@@ -2,7 +2,7 @@
 - 👀 I’m interested in GIS Software Development 
 - 🌱 I’m currently learning Web Programming with Python and Javascript at edx
 - 💞️ I’m looking to collaborate on GIS web,mobile,system design & development projects
-- 📫 How to reach me- Email-ogeroderrick@gmail.com / ogeroderrick@gistechke.com
+- 📫 How to reach me- Email-ogeroderrick@gmail.com 
 
 <!---
 derryk1/derryk1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
